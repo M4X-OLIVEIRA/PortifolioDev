@@ -398,10 +398,6 @@ body {
         position: static;
     }
 
-    .contato-content p {
-        text-align: center;
-    }
-
     .foot {
         flex-direction: column;
     }
