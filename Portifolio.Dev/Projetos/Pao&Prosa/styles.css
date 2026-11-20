@@ -391,7 +391,7 @@ body {
     }
 
     .endereco-box {
-        display: flex;
+        position: relative;
         flex-direction: column;
     }
 
