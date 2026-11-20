@@ -306,7 +306,6 @@ body {
 }
 
 .endereco-content p {
-    display: flex;
     padding: 10px 0;
     font-size: 15px;
 }
