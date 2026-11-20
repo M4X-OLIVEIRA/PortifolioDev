@@ -391,16 +391,12 @@ body {
     }
 
     .endereco-box {
+        display: flex;
         flex-direction: column;
     }
 
     .endereco-button a {
         position: static;
-    }
-
-    .contato-content p {
-        display: flex;
-        flex-direction: column;
     }
 
     .foot {
